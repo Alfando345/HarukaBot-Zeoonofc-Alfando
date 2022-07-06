@@ -1,0 +1,15 @@
+{
+    "ownerNumber": ["6285764175824@s.whatsapp.net","6282181552813@s.whatsapp.net"],
+    "ownerName": "Alfando",
+    "instagram" : "https://instagram.com/alfando_3398",
+    "botName": "Haruka-Mdོ ",
+    "footer": "WhatsApp Bot",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    }
+}
